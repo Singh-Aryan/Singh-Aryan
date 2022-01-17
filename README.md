@@ -14,6 +14,16 @@
 -  **I am a true science lover 🔬**
 -  **Finally, I ***LOVE*** playing Valorant/BGMI 🔫!**
 
+### Competitive Programming Profile :fire:
+#### Codeforces
+#### <a href="https://codeforces.com/profile/singh_aryan"><img src="https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-programming-score.herokuapp.com/api/codeforces/singh_aryan&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=259200" alt="singh_aryan's profile on Codeforces" title="singh_aryan's profile on Codeforces"></a>
+
+#### Codechef
+#### <a href="https://www.codechef.com/users/singh_aryan"><img src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.country_rank&url=https://competitive-programming-score.herokuapp.com/api/codechef/singh_aryan&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=259200" alt="singh_aryan's profile on CodeChef" title="singh_aryan's profile on CodeChef"></a>
+
+#### Leetcode
+#### ![Aryan Singh LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=singh_aryan&theme=dark)
+
 
 ### Here's my github README stats:
 
