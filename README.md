@@ -1,83 +1,43 @@
 # Hello Github users around the World! <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
 
-![image](https://user-images.githubusercontent.com/70807684/126077765-4f1f96ab-c054-4412-9f3a-1c977129a312.png)
+![image](bg.png)
 
-<img src="https://profile-counter.glitch.me/AvidCoder101/count.svg">
+<img src="https://profile-counter.glitch.me/Singh-Aryan/count.svg">
 
-[![GitHub followers](https://img.shields.io/github/followers/AvidCoder101.svg?style=social&label=Followers)](https://github.com/AvidCoder101?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/Singh-Aryan.svg?style=social&label=Followers)](https://github.com/Singh-Aryan?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+AvidCoder!;I'm+a+learning+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Aryan+Singh!;I'm+a+learning+developer...;I'm+a+CRAZY+tech+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 <h3> Here's some fun facts about me: </h3>
 
 - **I'm a ***HUGE Harry Potter fan*** ⚡🧙🏻‍♂️**
 -  **I'm a hopeful web and app developer 👩🏻‍💻**
 -  **I am a true science lover 🔬**
--  **Finally, I ***LOVE*** playing soccer/football ⚽!**
--  **I'm the founder of [the CodingContributorsLair Organization](https://github.com/CodingContributorsLair/) 🙂**
+-  **Finally, I ***LOVE*** playing Valorant/BGMI 🔫!**
+
 
 ### Here's my github README stats:
 
-![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=AvidCoder101&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AvidCoder101&theme=radical)](https://git.io/streak-stats) 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AvidCoder101)](https://github.com/ryo-ma/github-profile-trophy)
+![Singh-Aryan GitHub stats](https://github-readme-stats.vercel.app/api?username=Singh-Aryan&show_icons=true&theme=radical) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Singh-Aryan&theme=radical)](https://git.io/streak-stats) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Singh-Aryan)](https://github.com/ryo-ma/github-profile-trophy)
 
+### Here is the languages and Tech that I am currently working on:
 
-### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
-
-![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif)
-
-
-### Some of my public repositories (not forks):
-
-- **[My Profile Repo - AvidCoder101/AvidCoder101](https://github.com/AvidCoder101/AvidCoder101)**
-- **[My BMI Calculator Repo - AvidCoder101/BMICalculator ](https://github.com/AvidCoder101/BMICalculator)**
-- **[My To-do List Repo - AvidCoder101/To-do-list](https://github.com/AvidCoder101/To-do-list)**
-- **[My Harry Potter Quiz Repo - AvidCoder101/Harry-Potter-Quiz](https://github.com/AvidCoder101/Harry-Potter-Quiz)**
-- **[My Drawing Repo - AvidCoder101/Drawing-App](https://github.com/AvidCoder101/Drawing-App)**
-- **[My Clock Repo - AvidCoder101/Clock-App](https://github.com/AvidCoder101/Clock-App)**
-
-#### Most of these repos are also able to contribute to on the [CodingContributorsLair](https://github.com/CodingContributorsLair/) organization. Check them out!
-### Some awesome repos that people and organizations have made:
-
-- **[Markdown-dungeon - MakeContributions](https://github.com/MakeContributions/markdown-dungeon)**
-- **[Resources - zero-to-mastery](https://github.com/zero-to-mastery/resources)**
-- **[Github stats - anuraghazra](https://github.com/anuraghazra/github-readme-stats)**
-- **[Jobream - List-of-Learning-Resources](https://github.com/Jobream/List-of-Learning-Resources)**
-- **[EddieHubCommunity - awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)**
-
-### Organizations that I have contributed to :
-
-[<img src= "https://avatars.githubusercontent.com/u/66388388?s=88&v=4" height= "50" width= "50">](https://github.com/EddieHubCommunity)
-[<img src= "https://avatars.githubusercontent.com/u/35373879?s=60&v=4" height= "50" width= "50">](https://github.com/zero-to-mastery)
-[<img src= "https://avatars.githubusercontent.com/u/87652881?s=200&v=4" height= "50" width= "50">](https://github.com/CodingContributorsLair)
-[<img src= "https://avatars.githubusercontent.com/u/67384272?s=88&v=4" height= "50" width= "50">](https://github.com/MakeContributions)
-[<img src= "https://avatars.githubusercontent.com/u/37713493?s=88&v=4" height= "50" width= "50">](https://github.com/firstcontributions)
-[<img src= "https://avatars.githubusercontent.com/u/24355438?s=88&v=4" height= "50" width= "50">](https://github.com/fnplus)
-[<img src= "https://avatars.githubusercontent.com/u/68013560?s=88&v=4" height= "50" width= "50">](https://github.com/jobream)
-[<img src= "https://avatars.githubusercontent.com/u/88003901?s=60&v=4" height= "50" width= "50">](https://github.com/App-Choreography)
-[<img src= "https://avatars.githubusercontent.com/u/78741698?s=60&v=4" height= "50" width= "50">](https://github.com/chryz-hub)
-[<img src= "https://avatars.githubusercontent.com/u/55499010?s=60&v=4" height= "50" width= "50">](https://github.com/devcreatives)
-[<img src= "https://avatars.githubusercontent.com/u/69833530?s=60&v=4" height= "50" width= "50">](https://github.com/uncodedtech)
-[<img src= "https://avatars.githubusercontent.com/u/70080194?s=64&v=4" height= "50" width= "50">](https://github.com/golang-friends)
-[<img src= "https://avatars.githubusercontent.com/u/72601117?s=200&v=4" height= "50" width= "50">](https://github.com/nit-ap)
-[<img src= "https://avatars.githubusercontent.com/u/72855943?s=88&v=4" height= "50" width= "50">](https://github.com/CodeAvailable)
-[<img src= "https://avatars.githubusercontent.com/u/75231084?s=88&v=4" height= "50" width= "50">](https://github.com/RoquesBeach)
-[<img src= "https://avatars.githubusercontent.com/u/79212466?s=64&v=4" height= "50" width= "50">](https://github.com/PUGroups)
-[<img src= "https://avatars.githubusercontent.com/u/81645243?s=64&v=4" height= "50" width= "50">](https://github.com/nhcommunity)
-
-### Here is the languages that I am currently working on:
-
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
+![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-
-### Here are my Codewars stats:
-
-<img src= "https://www.codewars.com/users/edu_Itis/badges/micro" width= "200"/>
 
 ### Thank you for visiting my profile 🤓 
 
